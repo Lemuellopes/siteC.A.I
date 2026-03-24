@@ -20,7 +20,7 @@
     
     const mensagem = `Olá! Tudo bem? 
 
-Gostaria de solicitar a matrícula do meu filho(a) no Centro Aquático Infantil - Instinto Tia Duda.
+  Gostaria de solicitar a matrícula do meu filho(a) no C.A.I - Centro Aquático Infantil.
 
 *DADOS DO RESPONSÁVEL*
 Nome: ${nomeResponsavel}
