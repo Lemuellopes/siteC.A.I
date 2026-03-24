@@ -561,10 +561,6 @@
     transform: translateY(-4px);
     box-shadow: var(--shadow-strong);
   }
-  .testimonial-card::before {
-    content: '"'; font-family: 'Playfair Display', serif; font-size: 80px;
-    color: var(--foam); position: absolute; top: 10px; left: 20px; line-height: 1;
-  }
   .testimonial-text { font-size: 15px; color: #445; line-height: 1.8; margin-bottom: 24px; position: relative; z-index: 1; }
   .testimonial-author { display: flex; align-items: center; gap: 12px; }
   .author-avatar {
