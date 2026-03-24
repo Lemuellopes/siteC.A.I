@@ -456,7 +456,7 @@
   .plan-card.featured .plan-name { color: #fff; }
   .plan-age { font-size: 14px; color: var(--muted); margin-bottom: 24px; }
   .plan-card.featured .plan-age { color: rgba(255,255,255,0.7); }
-  .plan-price { font-family: 'Playfair Display', serif; font-size: clamp(34px, 3vw, 46px); color: var(--ocean); line-height: 1; }
+  .plan-price { font-family: 'Nunito', sans-serif; font-weight: 800; font-size: clamp(34px, 3vw, 46px); color: var(--ocean); line-height: 1; }
   .plan-price sup { font-size: 22px; vertical-align: super; }
   .plan-price span { font-size: 16px; color: var(--muted); font-family: 'Nunito', sans-serif; }
   .plan-card.featured .plan-price span { color: rgba(255,255,255,0.7); }
